@@ -1,0 +1,2 @@
+array.map(função) = item => item x 2
+map não altera o array original, retorna um com valores alterados
